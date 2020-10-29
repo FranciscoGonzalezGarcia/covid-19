@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="symptoms">Síntomas</string>
+    <string name="prevention">Prevención</string>
+    <string name="donate_blood">Donar Sangre</string>
+    <string name="test">Prueba</string>
+    <string name="more_info">Más Info...</string>
+    <string name="covid_title">Si te cuidas tú,\nnos cuidamos todos</string>
+    <string name="covid_body">"Todos podemos hacer algo para mitigar y contener la expansión de las enfermedades. Lo primero siempre es entender qué son, cómo se transmiten y cómo afectan.\n\nEn este caso, se trata del coronavirus SARS-COV2. Apareció en China en diciembre pasado y provoca una enfermedad llamada COVID-19, que se ha extendido por el mundo y fue declarada pandemia global por la Organización Mundial de la Salud. "</string>
+    <string name="symptoms_title">Síntomas</string>
+    <string name="symptoms_body_1">Una persona debe sospechar de COVID-19 cuando presenta al menos dos de los siguientes síntomas:</string>
+    <string name="cough">"Tos / Estornudos "</string>
+    <string name="fever">"Fiebre "</string>
+    <string name="hedache">Dolor de cabeza</string>
+    <string name="symptoms_body_2">"Y que se acompaña de alguno de los siguientes: "</string>
+    <string name="difficulty_breathing">Dificultad para respirar\n(casos más graves)</string>
+    <string name="sore_throat">Dolor de garganta</string>
+    <string name="runny_nose">Escurrimiento nasal</string>
+    <string name="red_eyes">Ojos rojos</string>
+    <string name="pain_in_muscles">Dolores en músculos\no articulaciones</string>
+    <string name="symptoms_body_3">Si perteneces a alguno de los grupos de mayor riesgo para complicarse, como las personas de 60 años y más, personas que viven con enfermedades como hipertensión o diabetes, las mujeres embarazadas, menores de cinco años y personas que viven con cáncer o VIH, DEBES ACUDIR A RECIBIR ATENCIÓN MÉDICA.</string>
+    <string name="dr_gatell">DR. HUGO LÓPEZ GATELL RAMÍREZ</string>
+    <string name="job_tittle_gatell">SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE SALUD</string>
+    <string name="message_gatell">Al final del día, lo que vamos a tener es la historia natural de una epidemia: esta enfermedad infecciosa, como muchas otras cosas, a pesar de que no tienen un tratamiento específico, no existe en el mundo entero una vacuna ni tampoco un medicamento que cure de manera directa a esta enfermedad; afortunadamente es una enfermedad que las propias defensas del organismo, el sistema inmune logra eliminar, porque logra impedir la multiplicaión del virus.</string>
+    <string name="dr_adhanom">DR. TEDROS ADHANOM</string>
+    <string name="job_tittle_adhanom">DIR. GRAL. DE LA ORGANIZACIÓN MUNDIAL DE LA SALUD</string>
+    <string name="message_adhanom">Esta es una pandemia que se puede controlar. Los países que decidan renunciar a medidas fundamentales de salud pública pueden acabar entrentándose a un problema mayor y auna carga más pesada para el sistema de salud, que requiera medidas aún más severas de control. Todos los países deben encontrar un delicado equilibrio entre protección de la salud, la prevención de los trastornos sociales y económicos, y el respeto de los derechos humanos.</string>
+    <string name="about_covid">Todo lo que debes saber</string>
+    <string name="wash_hands">Lava tus manos con agua y jabón</string>
+    <string name="go_to_the_doctor">Acude al médico solo en una urgencia</string>
+    <string name="cough_or_sniff">Tose o estornuda en la parte interna de tu codo</string>
+    <string name="not_fake_news">No difundas noticias falsas</string>
+    <string name="prevention_title">Medidas de prevención</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="retro">Valorar App</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="dialog_retro">¿La información en esta App te fue de ayuda?</string>
+    <string name="dialog_alert">Todos los campos deben ser llenados</string>
+    <string name="input_name">Por favor ingresa tu nombre</string>
+    <string name="do_retro">Valorar</string>
+    <string name="tel_number">800 00 44 800</string>
+    <string name="tel_number_info">Llama para más información.\n\nSerás atendido por personal\ncapacitado de la Secretaría de Salud</string>
+
+</resources>
